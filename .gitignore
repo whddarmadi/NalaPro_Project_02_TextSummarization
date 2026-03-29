@@ -1,0 +1,5 @@
+script/data/json/liputan6_data/*
+
+!script/data/json/liputan6_data/canonical/**/.gitkeep
+
+!script/data/json/liputan6_data/xtreme/**/.gitkeep
