@@ -7,6 +7,9 @@
 - Eko Erwis Wandoko
 - Muh.idris
 
+## File Presentasi
+- Terdapat di folder Document/NalaPro/
+
 ## Data
 - Menggunakan dataset Liputan 6 : https://drive.google.com/file/d/1ixaIO24XBZX-BFVyHIk0FG0kI2W3lACD/view
 - Dataset yang digunakan sebanyak train : 5000, dev:1070, dan test : 1070. diambil menggunakan metode random
